@@ -1,29 +1,10 @@
-## Library Sim800L Module for Arduino UNO
+# !! NOT IMPLEMENTED YET - DON'T USE !!
+
+## Library Sim800L Module for Cypress PSoC Family
 The Purpose of This library is to use the module in the most easy way and transparent.  
 Website: [Sim800L library](https://github.com/VittorioEsposito/Sim800L-revised)
 
-Original version by:   [Cristian Steib] (https://github.com/cristiansteib)
 
-
-Go to arduino IDE Sketch >> Import Library >> add library... Select the folder Sim800L-revised
-
-OR 
-
-Place the Sim800L library folder your ArduinoSketchFolder/libraries/ folder. 
-You may need to create the libraries subfolder if its your first library. Restart the IDE.
-
-
-## connections & pinouts (DEFAULT)
-Arduino Uno  |   Sim800L   |    Notes  
--------------|-------------|------------
-+5v| (3.8v)~(4.4v)!| Power supply input
-10 RX_PIN | TX |  
-11 TX_PIN | RX |
-2   RESET_PIN | RST| Reset Pin
-GND | GND | 
-
-
-* If it returns true there is an error
 
 ## Methods and functions
 
