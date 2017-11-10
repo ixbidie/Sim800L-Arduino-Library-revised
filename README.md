@@ -2,8 +2,6 @@
 
 ## Library Sim800L Module for Cypress PSoC Family
 The Purpose of This library is to use the module in the most easy way and transparent.  
-Website: [Sim800L library](https://github.com/VittorioEsposito/Sim800L-revised)
-
 
 
 ## Methods and functions
